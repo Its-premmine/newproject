@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 200px;
+    
+}
+.mainBody{
+    height:350px;
+    width: 300px;
+    border: 2px solid red;
+}
+
+.level1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 40px;
+
+}
+#displayInfo_id{
+    margin: 2px;
+    padding: 2px;
+    position: relative;
+    left: 2px;
+    margin-top: 4px;
+    font-size: 35px;
+    font-weight: 100;
+    font-family: fantasy;
+    width: 96%;
+    height: 50px;
+    border: none;
+    text-align: right;
+    
+   
+}
+.num_butt{
+
+    margin: 5px;
+    background-color: antiquewhite;
+    height: 40px;
+    width: 25%;
+}
+.num_operator{
+    margin: 5px;
+    background-color: antiquewhite;
+    height: 40px;
+    width: 25%;
+
+}
+.num_operatorEqual{
+    height: 40px;
+    width: 50%;
+    margin: 5px;
+}

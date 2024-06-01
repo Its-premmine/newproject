@@ -1,2 +1,3 @@
 # newproject
-new project
+MY.
+simple calculator
